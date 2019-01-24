@@ -6,8 +6,9 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "commander" : "*",
-    "socket.io" : "*",
-    "async" : "*"
-  }
+    "commander": "*",
+    "socket.io": "*",
+    "async": "*"
+  },
+  "foo": "bar"
 }
